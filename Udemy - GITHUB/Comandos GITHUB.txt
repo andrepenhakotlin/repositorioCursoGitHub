@@ -1,0 +1,6 @@
+Verifica se há novos arquivos para subir para o GITHUB: git status
+Adiciona todos os arquivos para serem comitados (observe que muda a cor) após o git status: git add .
+Para subir o arquivo no GITHUB é o seguinte comando: git commit -m "Subindo os arquivos para o GITHUB"
+Informa as ultimas alterações: git log
+sincroniza com o repositorio remoto: git push
+
